@@ -18,5 +18,5 @@ module incr(
             inc_out <= inc_in + 1; 
     end
 
-endmodule 
+endmodule  
 
