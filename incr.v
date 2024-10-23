@@ -27,5 +27,5 @@ module inchr(
 	 begin
             inc_out1 <= inc_in1 + 1; //output 
     end
-endmodule  
+endmodule     
 
