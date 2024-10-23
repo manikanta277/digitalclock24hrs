@@ -25,6 +25,7 @@ module inchr(
 );
     always @(inc_in1) 
 	 begin
-            inc_out1 <= inc_in1 + 1; 
+            inc_out1 <= inc_in1 + 1; //output 
     end
 endmodule  
+
